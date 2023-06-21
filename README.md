@@ -1,2 +1,4 @@
-# my-leetcode-answers
-A compilation of the different solutions I've had on leetcode (do not use to cheat or learn they aren't the best) 
+# My Leet Code Answers
+> **Note**: These are not meant to be the most "optimal" or "conventional" but are rather just for tracking
+
+A compilation of the different solutions I've had on leetcode
